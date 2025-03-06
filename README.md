@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadhub00](https://github.com/ahmadhub00)
 
 - 📝 I regularly write articles on [](Linkden)
-- 
-- - 👯 I’m looking to collaborate on **ReactNative**
+  
+-  👯 I’m looking to collaborate on **ReactNative**
 
 - 💬 Ask me about **react, Javascript, html, css,**
 
