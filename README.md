@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ahmad Taimur </h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadhub00&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=ahmadhub00&theme=dark&layout=compa")](https://git.io/streak-stats)
+
 - 🌱 I’m currently learning **React Native, Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadhub00](https://github.com/ahmadhub00)
